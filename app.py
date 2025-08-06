@@ -103,7 +103,7 @@ gif_links = [
     "https://media.giphy.com/media/3o6gE5aYQo7zSsmZ4k/giphy.gif",
     "https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif",
     "https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif",
-    "https://giphy.com/gifs/TW8Ma1a8ZsZ8I",
+    "https://giphy.com/gifs/TW8Ma1a8ZsZ8I/giphy-gif",
 
     # ✨ New ones
     "https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif",     # Sassy hair flip
@@ -193,5 +193,6 @@ if st.session_state.roast_history:
 st.markdown("---")
 
 st.caption("Made with fire & love 🔥💖 by QuanChi")
+
 
 
